@@ -1,1 +1,1 @@
-# Natural-scene-classification-using-different-CNN-architecture
+# Natural-scene-classification-using-CNN-architecture
